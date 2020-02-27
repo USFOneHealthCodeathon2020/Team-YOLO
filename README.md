@@ -6,7 +6,7 @@
 
 ## Objectives
 In this project we will try to answer some questions using machine learning methods.
-1. Is there an association between gut microbiome and age? 
+1. Is there an association between gut microbiome and obesity? 
    - In other words, can we predict age from gut microbiome composition using machine learning?
 2. Using machine learning based on the gur microbiome, how well can we classify different classes
    - Can our model identify important bacteria and replicate previous findings?
