@@ -14,3 +14,20 @@ In this project we will try to answer some questions using machine learning meth
 3. How accurately can we predict ancestry using gut microbiome and machine learning
 
 Data were collected from a twin study with 281 samples and more than 5000 OTUs
+
+
+## Methods and Implementation
+### Preprocessing
+### PCA
+### Machine Learning
+#### SVM
+#### KNN
+#### adaboost
+
+### Shiny app
+
+
+## Operation (requirements for code)
+
+
+

@@ -43,3 +43,5 @@ g + geom_bar(aes(fill=factor(dat$obesitycat)),
     theme(plot.title = element_text(hjust = 0.5))
 
 chisq.test(dat$twin_mother,dat$obesitycat)
+
+
