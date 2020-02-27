@@ -30,13 +30,23 @@ Random forest describes a supervised machine learning strategy that splits sampl
 #### Linear SVM
 Linear SVM was preformed using 10 fold cross validation with 3 repeats.
 
+Linear Support Vector Machine (SVM) classifier: Project samples into a higher dimensional space so that they are linearly separable.
+
 Support Vector Machines (SVM) is a method of supervised machine learning that is useful for classification, regression, and detection of outliers.  SVMs are effective in higher dimensions where the dimensions are greater than the numbers of samples.
 
 #### KNN
+K-nearest neighbor classifier (KNN): The classification of disease status is made by majority vote of close-by data points (n = K).
+
 K-nearest neighbors (KNN) is a machine learning algorithm that can be used for classification and regression.
 
+
+
 #### AdaBoost
+Adaboost classifier: Train multiple tree classifiers (each tree has a subset of available features) and add more weight to those misclassified samples in the next training loop.
+
 Adaptive Boosting (AdaBoost) is a machine learning meta-algorithm that can be used to improve performance of other machine learning algorithms.
+
+
 
 ### Shiny app
 
