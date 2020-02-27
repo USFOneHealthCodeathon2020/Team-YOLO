@@ -18,8 +18,13 @@ Data were collected from a twin study with 281 samples and more than 5000 OTUs
 
 ## Methods and Implementation
 ### Preprocessing
+Microbiome data goes through pre-processing before machine learning implementation.  Pre-processing transforms input data into a suitable form which the network can identify and use. Data processing goals could include reduction of input space size, smoother relationships among data, normalization, feature extraction, and noise reduction. Microbiome data produced from high-throughput sequencing often leads to a variable number of reads per sample.  Normalization ensures comparability of data across samples with differences in read depth. 
+
 ### PCA
 ### Machine Learning
+Machine learning describes the use of algorithms to recognize, classify, and predict patterns from data (Tarca, 2007).
+#### Random Forest
+Random forest describes a supervised machine learning strategy that splits samples into successively smaller groups based on specific features and associated threshold values.
 #### SVM
 #### KNN
 #### adaboost
