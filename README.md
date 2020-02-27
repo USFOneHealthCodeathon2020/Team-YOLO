@@ -23,11 +23,20 @@ Microbiome data goes through pre-processing before machine learning implementati
 ### PCA
 ### Machine Learning
 Machine learning describes the use of algorithms to recognize, classify, and predict patterns from data (Tarca, 2007).
-#### Random Forest
-Random forest describes a supervised machine learning strategy that splits samples into successively smaller groups based on specific features and associated threshold values.
-#### SVM
+
+~~#### Random Forest
+Random forest describes a supervised machine learning strategy that splits samples into successively smaller groups based on specific features and associated threshold values.~~
+
+#### Linear SVM
+Linear SVM was preformed using 10 fold cross validation with 3 repeats.
+
+Support Vector Machines (SVM) is a method of supervised machine learning that is useful for classification, regression, and detection of outliers.  SVMs are effective in higher dimensions where the dimensions are greater than the numbers of samples.
+
 #### KNN
-#### adaboost
+K-nearest neighbors (KNN) is a machine learning algorithm that can be used for classification and regression.
+
+#### AdaBoost
+Adaptive Boosting (AdaBoost) is a machine learning meta-algorithm that can be used to improve performance of other machine learning algorithms.
 
 ### Shiny app
 
