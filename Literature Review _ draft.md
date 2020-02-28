@@ -4,6 +4,7 @@
   
  Step 1: Literature review for high impact papers that use normalization and machine learning. 
        For example, find a paper that uses machine learning of microbiome data to predict disease. 
+ 
  Step 2: Extract the most informative figure/visualization from this paper, and we will perhaps use this visualization in our paper. 
 
   I googled: "Gordon JI machine learning normalization". Then I clicked on "Scholarly articles for Gordon JI machine learning normalization".
