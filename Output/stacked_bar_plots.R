@@ -19,7 +19,7 @@ g + geom_bar(aes(fill=factor(dat$obesitycat)),
              #bins=20,
              col="black",
              size=.1) +
-    labs(title = 'Obesity by zygosity', fill = 'Groups') +
+    labs(title = 'Obesity by zygosity \n p < 0.05', fill = 'Groups') +
     theme_classic() +
     theme(plot.title = element_text(hjust = 0.5))
 
@@ -43,7 +43,7 @@ g + geom_bar(aes(fill=factor(dat$obesitycat)),
              #bins=20,
              col="black",
              size=.1) +
-    labs(title = 'Obesity by Relationships  \n no sig difference', fill = 'Groups') +
+    labs(title = 'Obesity by Relationships  \n (no sig difference)', fill = 'Groups') +
     theme_classic() +
     theme(plot.title = element_text(hjust = 0.5))
 
