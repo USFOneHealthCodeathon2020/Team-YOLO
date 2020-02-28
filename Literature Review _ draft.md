@@ -1,5 +1,6 @@
-#Brief Initial First Steps
-##Team Yolo
+# Brief Initial First Steps
+
+## Team Yolo
   
 ` Step 1: Literature review for high impact papers that use normalization and machine learning. 
        For example, find a paper that uses machine learning of microbiome data to predict disease. 
